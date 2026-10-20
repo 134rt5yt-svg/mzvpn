@@ -1,6 +1,6 @@
 # mzvpn
 
-Форк [FoxyVPN](#) на Rust для десктопных платформ.
+Форк [FoxyVPN](https://github.com/Vauth/FoxyVPN) на Rust для десктопных платформ.
 
 ## Платформы
 
